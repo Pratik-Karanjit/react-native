@@ -2,6 +2,7 @@ import { View } from 'react-native';
 import LittleLemonHeader from './components/LittleLemonHeader';
 import LittleLemonFooter from './components/LittleLemonFooter';
 
+//APP
 export default function App() {
   // hi
   return (
