@@ -5,6 +5,7 @@ import LittleLemonFooter from './components/LittleLemonFooter';
 //APP
 export default function App() {
   // hi
+  //hi again
   return (
     <View
       style={{
