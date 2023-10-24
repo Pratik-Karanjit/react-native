@@ -7,6 +7,7 @@ export default function App() {
   // hi
   //hi again
   // again
+  // and again
   return (
     <View
       style={{
