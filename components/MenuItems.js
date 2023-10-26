@@ -2,6 +2,8 @@ import React from 'react';
 
 import { View, Text, ScrollView } from 'react-native';
 
+
+//array to display below
 const menuItemsToDisplay = [
     'Samosa \n Paneer Tikka \n Butter Chicken \n Biryani \n Chana Masala \n Tandoori Chicken \n Rogan Josh \n Aloo Gobi \n Naan Bread \n Palak Paneer \n Dosa \n Malai Kofta \n Chicken Tikka Masala \n Lamb Vindaloo \n Vegetable Biryani \n Rogani Murgh \n Mango Lassi \n Gulab Jamun \n Raita \n Tandoori Roti'
   ];
