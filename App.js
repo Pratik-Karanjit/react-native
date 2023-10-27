@@ -10,6 +10,7 @@ export default function App() {
   //hi again
   // again
   // and again
+  // again
   return (
     <View
       style={{
