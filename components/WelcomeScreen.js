@@ -1,6 +1,8 @@
 import * as React from 'react';
 import { ScrollView, Text } from 'react-native';
 
+
+//Welcome Screen component
 export default function WelcomeScreen() {
   return (
     <ScrollView indicatorStyle={"white"} style={{ flex: 1 }}>
