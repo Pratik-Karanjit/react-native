@@ -18,6 +18,8 @@ export default function App() {
         backgroundColor: 'black',
         justifyContent: 'space-between', 
       }}>
+
+        {/* calling components here */}
       <LittleLemonHeader />
       {/* <MenuItems /> */}
       <WelcomeScreen></WelcomeScreen>
