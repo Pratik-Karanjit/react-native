@@ -4,6 +4,7 @@ import { View, Text } from 'react-native';
 // Footer component
 export default function LittleLemonFooter() {
   return (
+    //View
     <View style={{ flex: 0.07, backgroundColor: '#F4CE14', justifyContent: 'flex-end' }}>
       <Text
         style={{
