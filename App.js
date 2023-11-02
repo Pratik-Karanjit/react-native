@@ -21,8 +21,8 @@ export default function App() {
 
         {/* calling components here */}
       <LittleLemonHeader />
-      {/* <MenuItems /> */}
-      <WelcomeScreen></WelcomeScreen>
+      <MenuItems />
+      {/* <WelcomeScreen></WelcomeScreen> */}
       <LittleLemonFooter />
     </View>
   );
