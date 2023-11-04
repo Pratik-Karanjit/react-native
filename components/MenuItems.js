@@ -39,7 +39,7 @@ const Item = ({ name, price  }) => (                            //Item function 
   </View>
 );
 
-
+//Menu function here
 const MenuItems = () => {                               //this is the main function
   const renderItem = ({ item }) => <Item name={item.name} price={item.price} />;                         //This renderItem function takes item objects from menuItemsToDisplay and passes name prop for Item function
 
