@@ -31,7 +31,7 @@ const Separator = () =>
 const Header = () => <Text style={menuStyles.headerText}>View Menu</Text>
 
 
-
+//Item function here
 const Item = ({ name, price  }) => (                            //Item function takes the name prop from renderItem function to display name
   <View style={menuStyles.innerContainer}>
     <Text style={menuStyles.itemText}>{name}</Text>
