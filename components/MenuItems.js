@@ -61,6 +61,7 @@ const MenuItems = () => {                               //this is the main funct
   );
 };
 
+//css here
 const menuStyles = StyleSheet.create({
   container: {
     flex: 0.75,
